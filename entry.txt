@@ -1,0 +1,1 @@
+My agent downloaded this bounty's 20 MB kit, then its own safety check refused to let it open the file — so it wrote this line from the API and left the kit sealed.
